@@ -1,2 +1,3 @@
 Alice woke up.
 Alice checked the ice cream in the refrigerator.
+Alice noticed that the ice cream was missing from the refrigerator.
